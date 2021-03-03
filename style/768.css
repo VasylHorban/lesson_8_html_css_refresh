@@ -1,8 +1,7 @@
 @media screen and (max-width : 660px) {
     .container {
         width: 97%;
-        max-width: 350px;
-        
+        max-width: 350px;  
     }
  
     .slider {
